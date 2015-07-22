@@ -1,0 +1,74 @@
+{
+  "intents": [
+    {
+      "intent": "GetFirstEventIntent",
+      "slots": [
+      {
+          "name": "term",
+          "type": "LITERAL"
+        }
+        ]
+    },
+   {
+      "intent": "GetYesEventIntent",
+      "slots": [ ]
+    },
+   {
+      "intent": "GetNoEventIntent",
+      "slots": [ ]
+    },
+    {
+      "intent": "GetNextEventIntent",
+      "slots": [
+        {
+          "name": "Na",
+          "type": "LITERAL"
+        },
+        {
+          "name": "Nb",
+          "type": "LITERAL"
+        },
+        {
+          "name": "Nc",
+          "type": "LITERAL"
+        },
+        {
+          "name": "Nd",
+          "type": "LITERAL"
+        },
+        {
+          "name": "Ne",
+          "type": "LITERAL"
+        },
+        {
+          "name": "Nf",
+          "type": "LITERAL"
+        },
+        {
+          "name": "Ng",
+          "type": "LITERAL"
+        },
+        {
+          "name": "Nh",
+          "type": "LITERAL"
+        },
+        {
+          "name": "Ni",
+          "type": "LITERAL"
+        },
+        {
+          "name": "Nj",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    },
+    {
+      "intent": "FinishIntent",
+      "slots": []
+    }
+  ]
+}

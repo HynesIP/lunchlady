@@ -1,0 +1,62 @@
+GetFirstEventIntent what's for lunch
+
+GetFirstEventIntent {american|term}
+GetFirstEventIntent {mexican|term}
+GetFirstEventIntent {italian|term}
+GetFirstEventIntent {japanese|term}
+GetFirstEventIntent {chinese|term}
+GetFirstEventIntent {bbq|term}
+GetFirstEventIntent {hawaiian|term}
+GetFirstEventIntent {pizza|term}
+GetFirstEventIntent {coffee|term}
+GetFirstEventIntent {quick|term}
+GetFirstEventIntent {fast|term}
+GetFirstEventIntent {cheap|term}
+GetFirstEventIntent {dessert|term}
+
+GetYesEventIntent yes
+GetNoEventIntent no
+
+FinishIntent nope
+FinishIntent no thanks
+FinishIntent no thank you
+FinishIntent I'm done
+FinishIntent I'm good
+FinishIntent peace out
+FinishIntent sounds great
+FinishIntent thank you
+FinishIntent great
+FinishIntent stop
+FinishIntent quit
+FinishIntent you shall not pass
+FinishIntent nigh
+FinishIntent done
+FinishIntent finished
+
+GetNextEventIntent  {one|Na} {one|Nb} {one|Nc} {one|Nd} {one|Ne} {one|Nf} {one|Ng} {one|Nh} {one|Ni} {one|Nj} 
+GetNextEventIntent  {two|Na} {two|Nb} {two|Nc} {two|Nd} {two|Ne} {two|Nf} {two|Ng} {two|Nh} {two|Ni} {two|Nj} 
+GetNextEventIntent  {three|Na} {three|Nb} {three|Nc} {three|Nd} {three|Ne} {three|Nf} {three|Ng} {three|Nh} {three|Ni} {three|Nj} 
+GetNextEventIntent  {four|Na} {four|Nb} {four|Nc} {four|Nd} {four|Ne} {four|Nf} {four|Ng} {four|Nh} {four|Ni} {four|Nj} 
+GetNextEventIntent  {five|Na} {five|Nb} {five|Nc} {five|Nd} {five|Ne} {five|Nf} {five|Ng} {five|Nh} {five|Ni} {five|Nj} 
+GetNextEventIntent  {six|Na} {six|Nb} {six|Nc} {six|Nd} {six|Ne} {six|Nf} {six|Ng} {six|Nh} {six|Ni} {six|Nj} 
+GetNextEventIntent  {seven|Na} {seven|Nb} {seven|Nc} {seven|Nd} {seven|Ne} {seven|Nf} {seven|Ng} {seven|Nh} {seven|Ni} {seven|Nj} 
+GetNextEventIntent  {eight|Na} {eight|Nb} {eight|Nc} {eight|Nd} {eight|Ne} {eight|Nf} {eight|Ng} {eight|Nh} {eight|Ni} {eight|Nj} 
+GetNextEventIntent  {nine|Na} {nine|Nb} {nine|Nc} {nine|Nd} {nine|Ne} {nine|Nf} {nine|Ng} {nine|Nh} {nine|Ni} {nine|Nj} 
+GetNextEventIntent  {zero|Na} {zero|Nb} {zero|Nc} {zero|Nd} {zero|Ne} {zero|Nf} {zero|Ng} {zero|Nh} {zero|Ni} {zero|Nj} 
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent to help
+HelpIntent to help me
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me
